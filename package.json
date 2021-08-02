@@ -1,0 +1,11 @@
+{
+  "name": "aaloo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Yashodhan Singh <dsfx3d@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ]
+}
